@@ -5,3 +5,4 @@ Open cmd:
  - Back up the dspace database
  - Add the dspace database credentials to config.py
  - Run python script.py
+ - The script will write a list of all the authorisations deleted in the tobedeleted.csv
